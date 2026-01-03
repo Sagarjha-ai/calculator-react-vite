@@ -21,11 +21,3 @@ This project demonstrates component-based architecture, state management, and cl
 - **CSS Modules**
 
 ---
-
-## 📂 Project Structure
-src/
-├── components/
-│ ├── ButtonsContainer.jsx
-│ └── Display.jsx
-├── App.jsx
-└── main.jsx
